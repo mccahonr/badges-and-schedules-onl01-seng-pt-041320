@@ -15,4 +15,4 @@ def assign_rooms(array)
   assignments = []
   counter = 1
   array.each do |name|
-    
+    assignments << "Hello,"
